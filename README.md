@@ -19,8 +19,9 @@ I led the engineering efforts to build a cloud-native cryptography-as-a-service 
 
 ### **EC2 Core Platform (2018–2020)**
 
-* **High-Scale Systems:** Directed mission-critical networking and telemetry services processing **hundreds of petabytes of data**.
-* **Blast Radius Reduction:** Led the architectural separation of tightly coupled telemetry and billing systems to enable independent service evolution.
+- **Service Ownership:** Owned core EC2 networking and telemetry platforms including VPC Flow Logs, PrivateLink control plane, Gateway Endpoint control and route distribution systems, and Aardvark, EC2’s large-scale network telemetry pipeline.
+- **Massive Data Infrastructure:** Led systems processing hundreds of petabytes of network transfer telemetry, powering customer visibility, network transfer billing, and internal security audit workflows.
+- **Blast Radius Reduction:** Drove architectural separation of telemetry and billing dependencies, enabling independent service evolution and reducing operational risk.
 
 ## 🛠️ Technical Expertise
 
